@@ -2,13 +2,13 @@
 
 A small point-and-click tool for making Fabric mods that add **new decorative blocks** to Minecraft. Upload textures, assign them to block faces, set a few properties, optionally add a crafting recipe, and export a mod you can build into a `.jar`.
 
-**Supported versions:** Minecraft 26.3 and 1.21.8 (Fabric). This may change in the future.
+**Supported versions:** Minecraft 26.3, 1.21.8, and 1.21.1 (Fabric). This may change in the future.
 
 ## Requirements
 
 - A modern browser (to use the tool).
 - To build the jar: a **JDK** and an internet connection (the first build downloads Minecraft and Fabric, which can take several minutes).
-  - Minecraft **1.21.8** needs **JDK 21** or newer.
+  - Minecraft **1.21.8 and 1.21.1** needs **JDK 21** or newer.
   - Minecraft **26.3** needs **JDK 25** or newer.
 - To play: Minecraft with **Fabric Loader** and **Fabric API** installed for the same Minecraft version.
 
